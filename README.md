@@ -1,2 +1,2 @@
-# project--x
+# project-x
 test project
